@@ -3,7 +3,7 @@
 ## Figure 1. System Architecture
 
 <p align="center">
-  <img src="images/fig2.png" width="70%">
+  <img src="images/fig2.webp" width="70%">
 </p>
 
 <p align="center">
