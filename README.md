@@ -17,8 +17,8 @@
 ## Figure 2. Standard Questionnaire Interface
 
 <p align="center">
-  <img src="images/fig5.png" width="45%">
-  <img src="images/fig6.png" width="45%">
+  <img src="images/fig5.webp" width="45%">
+  <img src="images/fig6.webp" width="45%">
 </p>
 
 <p align="center">
@@ -33,8 +33,8 @@
 ## Figure 3. Story-based Interaction Interface
 
 <p align="center">
-  <img src="images/fig7.png" width="45%">
-  <img src="images/fig6.png" width="45%">
+  <img src="images/fig7.webp" width="45%">
+  <img src="images/fig6.webp" width="45%">
 </p>
 
 <p align="center">
@@ -49,8 +49,8 @@
 ## Figure 4. Application Entry and Test Options
 
 <p align="center">
-  <img src="images/fig5.png" width="45%">
-  <img src="images/fig6.png" width="45%">
+  <img src="images/fig5.webp" width="45%">
+  <img src="images/fig6.webp" width="45%">
 </p>
 
 <p align="center">
