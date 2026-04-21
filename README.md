@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="images/fig5.webp" width="45%">
-  <img src="images/fig6.webp" width="45%">
+  <img src="images/fig7.webp" width="45%">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 ## Figure 3. Story-based Interaction Interface
 
 <p align="center">
-  <img src="images/fig7.webp" width="45%">
+  <img src="images/fig5.webp" width="45%">
   <img src="images/fig6.webp" width="45%">
 </p>
 
@@ -41,22 +41,6 @@
   <em>
   (a) Story-based visual question interface with contextual illustrations and localized language &nbsp;&nbsp;&nbsp;&nbsp;
   (b) Score visualization with risk interpretation and user interaction options
-  </em>
-</p>
-
----
-
-## Figure 4. Application Entry and Test Options
-
-<p align="center">
-  <img src="images/fig5.webp" width="45%">
-  <img src="images/fig6.webp" width="45%">
-</p>
-
-<p align="center">
-  <em>
-  (a) Entry screen providing test and informational options &nbsp;&nbsp;&nbsp;&nbsp;
-  (b) Selection interface for custom and standardized (EPDS) testing modes
   </em>
 </p>
 
